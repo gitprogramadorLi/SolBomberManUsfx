@@ -11,5 +11,8 @@ public:
 	int leerAltoAvatar() { return altoAvatar; }
 	void setAltoAvatar(int _anchoAvatar) { anchoAvatar = _anchoAvatar; }
 
+	void Correr();
+	void Morir();
+
 };
 

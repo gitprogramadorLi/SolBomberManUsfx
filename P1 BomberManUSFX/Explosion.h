@@ -9,4 +9,6 @@ public:
 
 	int leerActivarExplosion() { return activarExplosion; }
 	void setActivarExplosion(int _activarExplosion) { activarExplosion = _activarExplosion; }
+
+
 };

@@ -10,5 +10,7 @@ public:
 
 	int leerMatarBomber() { return matarBomber; }
 	void setMatarBomber(int _matarBomber) { matarBomber = _matarBomber; }
-};
 
+	void perseguir();
+	void MatarB();
+};
